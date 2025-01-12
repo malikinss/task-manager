@@ -1,6 +1,8 @@
 # taskRouter
 
-The `taskRouter` directory contains the routing logic for handling task-related HTTP requests. The `taskRouter.js` file defines the routes for creating, retrieving, updating, and deleting tasks, linking each route to the corresponding controller functions in the `TaskController`. This ensures that the logic for handling tasks is cleanly separated from the routing logic.
+The `taskRouter` directory contains the routing logic for handling task-related HTTP requests. 
+The `taskRouter.js` file defines the routes for creating, retrieving, updating, and deleting tasks, linking each route to the corresponding controller functions in the `TaskController`.
+This ensures that the logic for handling tasks is cleanly separated from the routing logic.
 
 ---
 
